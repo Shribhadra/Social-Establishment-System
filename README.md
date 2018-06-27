@@ -1,0 +1,2 @@
+# Social-Establishment-System
+ The trends in social networking rising throughout the world. The social networks allow people to keep and manage accounts. Social establishment is nothing but how the social networking sites and applications have influenced people in our society. his system will tell how much a person is socially active that is  who is the most socialized aand  who is the least active in socially.
